@@ -1,1 +1,2 @@
-# GitHub Pages config to enable dot folders
+include:
+- .well-known
